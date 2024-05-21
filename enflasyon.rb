@@ -1,4 +1,4 @@
-puts "urunun 2018 deki fiyatini giriniz          "
+puts "urunun 2018 deki fiyatini girin edcsxiz          "
 a = gets.to_f
 print "urunu_n 2023 deki fiyatini giriniz         "
 b = gets.to_f
